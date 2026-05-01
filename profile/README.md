@@ -1,7 +1,6 @@
 ## Nachceko Network Team
 - 创建时间：2026-04-18 11:06（UTC+8）
 
-> 网站：https://nachceko.qzz.io
 
 
 ![](https://avatars.githubusercontent.com/u/277171307)
